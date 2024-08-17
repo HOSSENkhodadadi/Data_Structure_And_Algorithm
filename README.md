@@ -1,5 +1,3 @@
-# Data_Structure_And_Algorithm
-An attempt for structural/self_studied learning of DSA
 # Data Structures and Algorithms: From Scratch
 
 Welcome to the **Data Structures and Algorithms** repository! This repo is designed to guide you through the journey of mastering data structures and algorithms, starting from the basics and moving towards advanced topics.
