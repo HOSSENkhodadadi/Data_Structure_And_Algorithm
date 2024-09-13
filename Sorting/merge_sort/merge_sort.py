@@ -30,9 +30,9 @@ class Sorting():
                 j += 1
 
 
-arr = [x for x in range(10)]
-arr = arr[::-1]
-print('arr: ', arr, "/n")
-sort1 = Sorting()
-sort1.merge_sort(arr, 0, len(arr)-1)
-print("sorted_arr: ", arr)
+# arr = [x for x in range(10)]
+# arr = arr[::-1]
+# print('arr: ', arr, "/n")
+# sort1 = Sorting()
+# sort1.merge_sort(arr, 0, len(arr)-1)
+# print("sorted_arr: ", arr)
